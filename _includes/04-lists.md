@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+###Fav Things
+* Video Games
+* Comic Books
+* Music
+* Writing
